@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Artify/static/css/main.21ffa6de.chunk.css",
+    "main.js": "/Artify/static/js/main.5b7f4484.chunk.js",
+    "main.js.map": "/Artify/static/js/main.5b7f4484.chunk.js.map",
+    "runtime-main.js": "/Artify/static/js/runtime-main.95a2e7dc.js",
+    "runtime-main.js.map": "/Artify/static/js/runtime-main.95a2e7dc.js.map",
+    "static/js/2.63588233.chunk.js": "/Artify/static/js/2.63588233.chunk.js",
+    "static/js/2.63588233.chunk.js.map": "/Artify/static/js/2.63588233.chunk.js.map",
+    "index.html": "/Artify/index.html",
+    "static/css/main.21ffa6de.chunk.css.map": "/Artify/static/css/main.21ffa6de.chunk.css.map",
+    "static/js/2.63588233.chunk.js.LICENSE.txt": "/Artify/static/js/2.63588233.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a2e7dc.js",
+    "static/js/2.63588233.chunk.js",
+    "static/css/main.21ffa6de.chunk.css",
+    "static/js/main.5b7f4484.chunk.js"
+  ]
+}
