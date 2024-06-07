@@ -1,0 +1,4 @@
+https://webfiles.portal.chalmers.se/s2/undergraduate/SSY095/PDFdocuments/ForScreen/Notes/NonLinearDiffusion.pdf
+https://mrl.cs.nyu.edu/publications/painterly98/hertzmann-siggraph98.pdf
+https://stackoverflow.com/questions/10802611/anisotropic-diffusion-2d-images#:~:text=def%20__init__(self%2Cnum_iter%3D5%2Cdelta_t%3D1%2F7%2Ckappa%3D30%2Coption%3D2)%3A%0A%0A%20%20%20,%20%20%20return%20diff_im
+https://stackoverflow.com/questions/10802611/anisotropic-diffusion-2d-images
